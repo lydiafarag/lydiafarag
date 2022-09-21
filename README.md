@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lydiafarag
 - 👀 I’m interested in DevOps development, AI in the fintech and med-tech spaces, and full-stack web development.
-- 🌱 I’m currently a Production Engineering Fellow @ MLH and  A Program Developer/Diversity Outreach Intern @ McMaster
+- 🌱 I’m currently an Open Source Fellow @ Memorial Sloan Kettering Cancer Center!
 - :thinking: Two side projects I'm in the process of building are a Linux Debugger and a Breast Cancer Classification AI.
 - 💞️ I'm passionate about mentorship and learning from real life experience in building meaningful projects!
 - 📫 Reach me on Linkedin or by email faraglydia@gmail.com 
